@@ -3,7 +3,7 @@
 A modern and responsive portfolio website built with React.js and Tailwind CSS. This project showcases my frontend development skills through a clean UI, smooth animations, and reusable React components.
 
 ## Live Demo 
-portfolio-website-e1c6xbf3z-sneha-shrivas.vercel.app
+portfolio-website-sneha-shrivas.vercel.app
 
 ## Technologies Used
 - React.js
